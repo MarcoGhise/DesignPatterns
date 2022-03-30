@@ -2,7 +2,7 @@ package it.blog.designpatterns.abstractfactory;
 
 import java.util.Scanner;
 
-public class Demo {
+public class Demo { 
 	/**
 	 * Application picks the factory type and creates it in run time (usually at
 	 * initialization stage), depending on the configuration or environment
