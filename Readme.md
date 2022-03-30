@@ -34,115 +34,115 @@ java it.blog.designpatterns.abstractfactory.Demo
 java it.blog.designpatterns.adapter.Demo
 ```
 
-###Bridge Pattern
+### Bridge Pattern
 
 ```
 java it.blog.designpatterns.bridge.Demo
 ```
 
-###Builder Pattern
+### Builder Pattern
 
 ```
 java it.blog.designpatterns.builder.Demo
 ```
 
-###Chain of Responsability Pattern
+### Chain of Responsability Pattern
 
 ```
 java it.blog.designpatterns.chainofresponsability.Demo
 ```
 
-###Command Pattern
+### Command Pattern
 
 ```
 java it.blog.designpatterns.command.Demo
 ```
 
-###Composite Pattern
+### Composite Pattern
 
 ```
 java it.blog.designpatterns.composito.Demo
 ```
 
-###Decorator Pattern
+### Decorator Pattern
 
 ```
 java it.blog.designpatterns.decorator.Demo
 ```
 
-###Facade Pattern
+### Facade Pattern
 
 ```
 java it.blog.designpatterns.facade.Demo
 ```
 
-###Factory Method Pattern
+### Factory Method Pattern
 
 ```
 java it.blog.designpatterns.factorymethod.Demo
 ```
 
-###Flyweight Pattern
+### Flyweight Pattern
 
 ```
 java it.blog.designpatterns.flyweight.Demo
 ```
 
-###Iterator Pattern
+### Iterator Pattern
 
 ```
 java it.blog.designpatterns.iterator.Demo
 ```
 
-###Mediator Pattern
+### Mediator Pattern
 
 ```
 java it.blog.designpatterns.mediator.Demo
 ```
 
-###Observer Pattern
+### Observer Pattern
 
 ```
 java it.blog.designpatterns.observer.Demo
 ```
 
-###Prototype Pattern
+### Prototype Pattern
 
 ```
 java it.blog.designpatterns.prototype.Demo
 ```
 
-###Proxy Pattern
+### Proxy Pattern
 
 ```
 java it.blog.designpatterns.proxy.Demo
 ```
 
-###Singleton Pattern
+### Singleton Pattern
 
 ```
 java it.blog.designpatterns.singleton.DemoMultiThread
 ```
 
-###State Pattern
+### State Pattern
 
 ```
 java it.blog.designpatterns.state.Demo
 ```
 
-###Strategy Pattern
+### Strategy Pattern
 
 ```
 java it.blog.designpatterns.strategy.Demo
 ```
 
-###Template Pattern
+### Template Pattern
 
 ```
 java it.blog.designpatterns.template.Manual
 ```
 
-###Visitor Pattern
+### Visitor Pattern
 
 ```
 java it.blog.designpatterns.visitor.Manual
