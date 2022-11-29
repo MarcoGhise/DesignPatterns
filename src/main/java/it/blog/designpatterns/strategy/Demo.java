@@ -23,7 +23,5 @@ public class Demo {
 		Product sentProduct = strategy.shipProduct(new Product("Apple"));
 		
 		System.out.println("Product sent by ... " + sentProduct.getShippingMethod());
-
 	}
-
 }
