@@ -26,124 +26,124 @@
 ### Abstract Factory Pattern 
 
 ```
-java it.blog.designpatterns.abstractfactory.Demo
+java it.blog.designpatterns.creational.abstractfactory.Demo
 ```
 ### Adapter Pattern
 
 ```
-java it.blog.designpatterns.adapter.Demo
+java it.blog.designpatterns.structural.adapter.Demo
 ```
 
 ### Bridge Pattern
 
 ```
-java it.blog.designpatterns.bridge.Demo
+java it.blog.designpatterns.structural.bridge.Demo
 ```
 
 ### Builder Pattern
 
 ```
-java it.blog.designpatterns.builder.Demo
+java it.blog.designpatterns.creational.builder.Demo
 ```
 
 ### Chain of Responsability Pattern
 
 ```
-java it.blog.designpatterns.chainofresponsability.Demo
+java it.blog.designpatterns.behavioral.chainofresponsability.Demo
 ```
 
 ### Command Pattern
 
 ```
-java it.blog.designpatterns.command.Demo
+java it.blog.designpatterns.behavioral.command.Demo
 ```
 
 ### Composite Pattern
 
 ```
-java it.blog.designpatterns.composito.Demo
+java it.blog.designpatterns.structural.composito.Demo
 ```
 
 ### Decorator Pattern
 
 ```
-java it.blog.designpatterns.decorator.Demo
+java it.blog.designpatterns.structural.decorator.Demo
 ```
 
 ### Facade Pattern
 
 ```
-java it.blog.designpatterns.facade.Demo
+java it.blog.designpatterns.structural.facade.Demo
 ```
 
 ### Factory Method Pattern
 
 ```
-java it.blog.designpatterns.factorymethod.Demo
+java it.blog.designpatterns.creational.factorymethod.Demo
 ```
 
 ### Flyweight Pattern
 
 ```
-java it.blog.designpatterns.flyweight.Demo
+java it.blog.designpatterns.structural.flyweight.Demo
 ```
 
 ### Iterator Pattern
 
 ```
-java it.blog.designpatterns.iterator.Demo
+java it.blog.designpatterns.behavioral.iterator.Demo
 ```
 
 ### Mediator Pattern
 
 ```
-java it.blog.designpatterns.mediator.Demo
+java it.blog.designpatterns.behavioral.mediator.Demo
 ```
 
 ### Observer Pattern
 
 ```
-java it.blog.designpatterns.observer.Demo
+java it.blog.designpatterns.behavioral.observer.Demo
 ```
 
 ### Prototype Pattern
 
 ```
-java it.blog.designpatterns.prototype.Demo
+java it.blog.designpatterns.creational.prototype.Demo
 ```
 
 ### Proxy Pattern
 
 ```
-java it.blog.designpatterns.proxy.Demo
+java it.blog.designpatterns.structural.proxy.Demo
 ```
 
 ### Singleton Pattern
 
 ```
-java it.blog.designpatterns.singleton.DemoMultiThread
+java it.blog.designpatterns.creational.singleton.DemoMultiThread
 ```
 
 ### State Pattern
 
 ```
-java it.blog.designpatterns.state.Demo
+java it.blog.designpatterns.behavioral.state.Demo
 ```
 
 ### Strategy Pattern
 
 ```
-java it.blog.designpatterns.strategy.Demo
+java it.blog.designpatterns.behavioral.strategy.Demo
 ```
 
 ### Template Pattern
 
 ```
-java it.blog.designpatterns.template.Manual
+java it.blog.designpatterns.behavioral.template.Manual
 ```
 
 ### Visitor Pattern
 
 ```
-java it.blog.designpatterns.visitor.Manual
+java it.blog.designpatterns.behavioral.visitor.Demo
 ```
